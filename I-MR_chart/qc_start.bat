@@ -1,0 +1,2 @@
+Rscript 20181030_QC_SNP_radiation_monitor.R
+PAUSE
